@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.griefcraft.lwc</groupId>
+  <artifactId>LWC</artifactId>
+  <versioning>
+    <versions>
+      <version>4.5.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160609115725</lastUpdated>
+  </versioning>
+</metadata>

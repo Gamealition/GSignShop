@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.griefcraft.lwc</groupId>
+  <artifactId>LWC</artifactId>
+  <version>4.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160609.115725</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160609115725</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.5.0-20160609.115725-1</value>
+        <updated>20160609115725</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.5.0-20160609.115725-1</value>
+        <updated>20160609115725</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
