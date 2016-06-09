@@ -179,12 +179,6 @@
             <artifactId>skript</artifactId>
             <version>2.1</version>
         </dependency>
-        <!-- Spout; legacy server -->
-        <dependency>
-            <groupId>org.getspout.spout</groupId>
-            <artifactId>Spout</artifactId>
-            <version>1360</version>
-        </dependency>
         <!-- Towny; town management plugin -->
         <dependency>
             <groupId>com.palmergames</groupId>
