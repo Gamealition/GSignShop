@@ -8,7 +8,7 @@
 
     <groupId>org.wargamer2010.signshop</groupId>
     <artifactId>GSignShop</artifactId>
-    <version>2.11.0rev2</version>
+    <version>2.11.0rev3</version>
 
     <description>
         A minecraft plugin allowing users to setup shops with signs
