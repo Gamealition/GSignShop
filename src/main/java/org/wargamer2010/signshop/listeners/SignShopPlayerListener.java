@@ -172,6 +172,8 @@ public class SignShopPlayerListener implements Listener {
 
         if(event.getAction() == Action.LEFT_CLICK_BLOCK && event.getItem() != null && seller == null && SignShopConfig.isOPMaterial(event.getItem().getType())) {
             if(itemUtil.clickedSign(bClicked) && event.getItem().getType() == SignShopConfig.getLinkMaterial()) {
+                event.setCancelled(true);
+
                 sLines = ((Sign) bClicked.getState()).getLines();
                 sOperation = signshopUtil.getOperation(sLines[0]);
                 if(SignShopConfig.getBlocks(sOperation).isEmpty()) {
